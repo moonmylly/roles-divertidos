@@ -36,7 +36,6 @@
       <p>Que tal começarmos nossa jornada, assim podemos ajuda-lo.</p>
       <a class="btn btn-primary btn-lg" href="#" role="button">Saiba mais</a>
     </div>
-
     <div class="row">
       <div class="col-md-4">
         <div class="card">
@@ -63,7 +62,6 @@
         </div>
       </div>
     </div>
-
     <footer class="mt-4 text-center">
       <p>&copy; 2024 Your Company. All rights reserved.</p>
     </footer>
